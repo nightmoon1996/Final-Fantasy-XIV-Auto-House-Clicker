@@ -1,5 +1,4 @@
 # Final-Fantasy-XIV-Auto-House-Clicker
-the title said it all
 
 You're going to need a python.
 
