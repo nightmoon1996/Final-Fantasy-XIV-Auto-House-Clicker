@@ -1,4 +1,5 @@
-# Final-Fantasy-XIV-Auto-House-Clicker
+# [DISCONTINUED]Final-Fantasy-XIV-Auto-House-Clicker
+## Due to Endwalker(6.0) update changing how the estate system works, so this script doesn't work anymore. Please don't waste your time on this 
 
 You're going to need a python.
 
